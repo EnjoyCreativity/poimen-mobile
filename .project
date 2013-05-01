@@ -1,6 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <projectDescription>
+<<<<<<< HEAD
 	<name>CalvarySanFran</name>
+=======
+	<name>CalvarySanFrancisco</name>
+>>>>>>> 5377c82863ef3be666cece8815f15a223c271286
 	<comment></comment>
 	<projects>
 	</projects>
@@ -17,8 +21,12 @@
 		</buildCommand>
 	</buildSpec>
 	<natures>
+<<<<<<< HEAD
 		<nature>com.appcelerator.titanium.alloy.core.nature</nature>
 		<nature>com.appcelerator.titanium.mobile.nature</nature>
+=======
+		<nature>com.appcelerator.titanium.mobile.module.nature</nature>
+>>>>>>> 5377c82863ef3be666cece8815f15a223c271286
 		<nature>com.aptana.projects.webnature</nature>
 	</natures>
 </projectDescription>

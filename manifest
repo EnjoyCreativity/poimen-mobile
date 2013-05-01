@@ -1,9 +1,11 @@
-#appname: CalvarySanFran
-#appid: com.ericwhitlock.test
-#type: mobile
-#guid: ceff9c07-99e7-4647-821d-cf7dd95c8560
-#version: 1.0
-#publisher: not specified
-#url: not specified
-#image: appicon.png
-#desc: not specified
+
+#appname:PoimenMinistries
+#appid:com.enjoycreativity.poimenministries
+#type:mobile
+#guid:e447c0d3-d335-497a-b688-43caf446c92b
+#version:1.0
+#publisher:Enjoy Creativity
+#url:http://www.enjoycreativity.com
+#image:appicon.png
+#desc:This app was created by Enjoy Creativity for Poimen Ministries.
+

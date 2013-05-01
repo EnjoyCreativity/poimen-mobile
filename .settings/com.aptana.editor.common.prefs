@@ -1,2 +1,6 @@
 eclipse.preferences.version=1
+<<<<<<< HEAD
 selectUserAgents=com.appcelerator.titanium.mobile.nature\:iphone,ipad
+=======
+selectUserAgents=com.appcelerator.titanium.mobile.nature\:iphone,ipad,android
+>>>>>>> 5377c82863ef3be666cece8815f15a223c271286
