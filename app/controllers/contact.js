@@ -30,6 +30,8 @@ var refresh = function(){
 		
 		// Check if we have a xhr
 		if(statusCode == 200) {
+			$.errorLabel.visible = false;
+			
 			// Save the responseText from the xhr in the response variable
 			var response = xhr.responseText;
 			
